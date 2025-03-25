@@ -62,9 +62,18 @@
 ---
 
 ## 📫 Let's Connect  
-📧 **Email**: messaoudenemohamed54@gmail.com  
-💼 **LinkedIn**: [linkedin.com/in/mohamed-messaoudene-ab595a269](https://www.linkedin.com/in/mohamed-messaoudene-ab595a269/)  
-📝 **Medium**: https://medium.com/@mohamed.messaoudene_67018
+
+🌐 **Portfolio**:  
+[https://67e2cc44b8e0310009b98755--messaoudene-portfolio.netlify.app/](https://67e2cc44b8e0310009b98755--messaoudene-portfolio.netlify.app/)  
+
+📧 **Email**:  
+messaoudenemohamed54@gmail.com  
+
+💼 **LinkedIn**:  
+[linkedin.com/in/mohamed-messaoudene-ab595a269](https://www.linkedin.com/in/mohamed-messaoudene-ab595a269/)  
+
+📝 **Medium**:  
+[https://medium.com/@mohamed.messaoudene_67018](https://medium.com/@mohamed.messaoudene_67018)  
 
 ---
 
