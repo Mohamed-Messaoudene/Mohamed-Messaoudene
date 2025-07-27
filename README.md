@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
   <br/>
-  <strong>Full-Stack Developer | Future DevOps Engineer</strong>
+  <strong>ICT Engineer | Full-Stack Developer </strong>
 </p>
 
 ---
@@ -49,7 +49,9 @@
   <br/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
+
 
 ---
 
@@ -64,7 +66,7 @@
 ## 📫 Let's Connect  
 
 🌐 **Portfolio**:  
-[https://67e2cc44b8e0310009b98755--messaoudene-portfolio.netlify.app/](https://67e2cc44b8e0310009b98755--messaoudene-portfolio.netlify.app/)  
+[https://mohamed-messaoudene.github.io/](https://mohamed-messaoudene.github.io/)  
 
 📧 **Email**:  
 messaoudenemohamed54@gmail.com  
